@@ -1,3 +1,5 @@
+<img src="./FranzPortable/App/AppInfo/appicon_256.png" alt="Franz logo" width="150" />
+
 # FranzPortable
 
 Get back on top of your messaging.
