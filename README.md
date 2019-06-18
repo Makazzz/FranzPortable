@@ -44,5 +44,5 @@ is packaged in an installer and complete zip file.
 ## License
 
 *   Franz Portable released under [the MIT license](https://raw.githubusercontent.com/Makazzz/FranzPortable/master/LICENSE).
-*   PortableApps.com Launcher released under [the GPL v2.0 license](https://raw.githubusercontent.com/Makazzz/FranzPortable/master/VSCodePortable/Other/Source/LauncherLicense.txt).
+*   PortableApps.com Launcher released under [the GPL v2.0 license](https://raw.githubusercontent.com/Makazzz/FranzPortable/master/FranzPortable/Other/Source/LauncherLicense.txt).
 *   Franz is released under [the Apache 2.0 license](https://raw.githubusercontent.com/meetfranz/franz/master/LICENSE).
