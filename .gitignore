@@ -1,3 +1,6 @@
+# Ignore App folder
+FranzPortable/App/franz
+
 # Ignore Data folder
 FranzPortable/Data
 
