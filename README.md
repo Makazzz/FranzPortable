@@ -43,7 +43,7 @@ is packaged in an installer and complete zip file.
 
 ## Credits
 
-*	Franz Portable is a redistribution of [Franz](https://Franz.com/), developed by [Stefan Malzner](https://github.com/Franz).
+*	Franz Portable is a redistribution of [Franz](https://meetfranz.com/), developed by [Stefan Malzner](https://github.com/adlk).
 *	[PortableApps.com platform](https://PortableApps.com/download) developed by the [PortableApps.com team](https://PortableApps.com).
 
 ## License
